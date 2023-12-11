@@ -1,7 +1,9 @@
 package com.tatiramos.fundamentos;
 
 /*
-Wrappers em Java são classes que representam tipos de dados primitivos. Eles fornecem uma camada de abstração sobre os tipos de dados primitivos, tornando-os mais fáceis de usar e gerenciar.
+Wrappers em Java são classes que representam tipos de dados primitivos.
+Eles fornecem uma camada de abstração sobre os tipos de dados primitivos,
+tornando-os mais fáceis de usar e gerenciar.
 
 Existem wrappers para todos os oito tipos de dados primitivos em Java:
 
@@ -52,9 +54,6 @@ public class Wrappers {
 
         Character c = '#'; //char
         System.out.println(c + "...");
-
-
-
 
     }
 }
